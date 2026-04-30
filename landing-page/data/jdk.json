@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T03:21:51.761Z",
+  "lastUpdated": "2026-04-30T03:41:20.276Z",
   "jenv": {
     "version": "0.6.9",
     "platforms": {
@@ -80,38 +80,38 @@
           },
           "11": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/de49af87ce3ca069872a7394f6a119ae/redirect",
+              "url": "https://api.foojay.io/disco/v3.0/ids/6daec165e5b1576f0f3b16131114a85a/redirect",
               "size": "190.2 MB",
               "sha256": "",
-              "javaVersion": "11.0.30+7",
+              "javaVersion": "11.0.31+11",
               "distribution": "temurin"
             },
             "linux-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/9708c3c374f33ec3261db5b454af7a21/redirect",
-              "size": "186.5 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/3ace3dae1642316b552ad7e1404c5fe5/redirect",
+              "size": "186.6 MB",
               "sha256": "",
-              "javaVersion": "11.0.30+7",
+              "javaVersion": "11.0.31+11",
               "distribution": "temurin"
             },
             "linux-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/1553c1f86c4256a28615e706645696e7/redirect",
+              "url": "https://api.foojay.io/disco/v3.0/ids/60b55eb9c7cedf7a2be4fef0b6e32197/redirect",
               "size": "183.4 MB",
               "sha256": "",
-              "javaVersion": "11.0.30+7",
+              "javaVersion": "11.0.31+11",
               "distribution": "temurin"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/302a38dee6652886eb2695a7590a3518/redirect",
-              "size": "178.6 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/73e9fcd4da1e73947f30bf5317fea7f6/redirect",
+              "size": "178.7 MB",
               "sha256": "",
-              "javaVersion": "11.0.30+7",
+              "javaVersion": "11.0.31+11",
               "distribution": "temurin"
             },
             "macos-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/34b13276f4eb7df14416adf03bf9bb51/redirect",
-              "size": "176.0 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/14bb9740782d1fd422ce3754cd0e9d94/redirect",
+              "size": "176.1 MB",
               "sha256": "",
-              "javaVersion": "11.0.30+7",
+              "javaVersion": "11.0.31+11",
               "distribution": "temurin"
             }
           },
@@ -138,26 +138,26 @@
               "distribution": "temurin"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/2208feeb3d4e12f412e9a450db1a842a/redirect",
-              "size": "172.0 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/1eb45aa4611624296b0eece6307c88dd/redirect",
+              "size": "172.2 MB",
               "sha256": "",
-              "javaVersion": "17.0.18+8",
+              "javaVersion": "17.0.19+10",
               "distribution": "temurin"
             },
             "macos-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/1050b2216f8beaaecc1289b17d30b586/redirect",
-              "size": "177.1 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/6153b48c463751a85519c9ff41ad94ef/redirect",
+              "size": "177.2 MB",
               "sha256": "",
-              "javaVersion": "17.0.18+8",
+              "javaVersion": "17.0.19+10",
               "distribution": "temurin"
             }
           },
           "21": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/0ef34dd9312b12d61ba1b8e66126d140/redirect",
-              "size": "195.4 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/5a88b04b5e582b332d2e6bc12b45f1b9/redirect",
+              "size": "195.6 MB",
               "sha256": "",
-              "javaVersion": "21.0.10+7",
+              "javaVersion": "21.0.11+10",
               "distribution": "temurin"
             },
             "linux-x64": {
@@ -175,17 +175,17 @@
               "distribution": "temurin"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/f636c800fdb3f9ae33f019dfa048ba72/redirect",
-              "size": "185.1 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/1dcbacacca32618bd21ec5465779ade1/redirect",
+              "size": "185.3 MB",
               "sha256": "",
-              "javaVersion": "21.0.10+7",
+              "javaVersion": "21.0.11+10",
               "distribution": "temurin"
             },
             "macos-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/3426ffcaa54c3f62406beb1f1ab8b179/redirect",
-              "size": "190.6 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/f257be9f04bfdf169051808541767806/redirect",
+              "size": "190.8 MB",
               "sha256": "",
-              "javaVersion": "21.0.10+7",
+              "javaVersion": "21.0.11+10",
               "distribution": "temurin"
             }
           },
@@ -242,8 +242,8 @@
               "distribution": "zulu"
             },
             "linux-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/03fd50199964f41d0e36056c3808d3a0/redirect",
-              "size": "102.7 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/40a8498673bce56d09ed124495c42cd9/redirect",
+              "size": "176.5 MB",
               "sha256": "",
               "javaVersion": "8.0.492+9",
               "distribution": "zulu"
@@ -263,8 +263,8 @@
               "distribution": "zulu"
             },
             "macos-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/324d4ee0999d7c714029b10621d7a04f/redirect",
-              "size": "99.5 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/6c2f3ce936de1cad44d8c0d194a99c18/redirect",
+              "size": "156.4 MB",
               "sha256": "",
               "javaVersion": "8.0.492+9",
               "distribution": "zulu"
@@ -272,15 +272,15 @@
           },
           "11": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/0d212db7efd7476c3c2beda8a2ad09e3/redirect",
-              "size": "190.0 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/329da5bf64673d39445fdf9e71fc1f0e/redirect",
+              "size": "280.8 MB",
               "sha256": "",
               "javaVersion": "11.0.31+11",
               "distribution": "zulu"
             },
             "linux-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/d9a43e70f86fe5a785907cd22dec7bb4/redirect",
-              "size": "191.2 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/220b70d61c62ff175831756daf5f7077/redirect",
+              "size": "300.2 MB",
               "sha256": "",
               "javaVersion": "11.0.31+11",
               "distribution": "zulu"
@@ -293,8 +293,8 @@
               "distribution": "zulu"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/dcf8370daa5c7d41f3312f7319930c2d/redirect",
-              "size": "185.7 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/db2465ded00fed06aeed0ec17301576b/redirect",
+              "size": "282.2 MB",
               "sha256": "",
               "javaVersion": "11.0.31+11",
               "distribution": "zulu"
@@ -309,8 +309,8 @@
           },
           "17": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/30e46e9c8ac0c0f4c962eb84182c4cd5/redirect",
-              "size": "187.7 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/fc98f2d434c5796fe6ec02f0f22957b3/redirect",
+              "size": "278.7 MB",
               "sha256": "",
               "javaVersion": "17.0.19+10",
               "distribution": "zulu"
@@ -330,8 +330,8 @@
               "distribution": "zulu"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/fb6022a799a0e86ac44dded9b29e5332/redirect",
-              "size": "185.7 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/a7e1d8e6e800a81047d4aec26156ef5c/redirect",
+              "size": "282.4 MB",
               "sha256": "",
               "javaVersion": "17.0.19+10",
               "distribution": "zulu"
@@ -346,8 +346,8 @@
           },
           "21": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/9b3c0e07cc17bfa657fa2071b97a92b9/redirect",
-              "size": "201.8 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/df839bfdbcd8a8e829b9cf1be59c478b/redirect",
+              "size": "291.4 MB",
               "sha256": "",
               "javaVersion": "21.0.11+10",
               "distribution": "zulu"
@@ -383,8 +383,8 @@
           },
           "25": {
             "windows-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/4e75e9b5d62537599b55932e7d1e0281/redirect",
-              "size": "220.1 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/fc87618b48de20250041fee36d3edde3/redirect",
+              "size": "313.3 MB",
               "sha256": "",
               "javaVersion": "25.0.3+9",
               "distribution": "zulu"
