@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T03:40:59.561Z",
+  "lastUpdated": "2026-05-11T03:44:58.310Z",
   "jenv": {
     "version": "0.6.9",
     "platforms": {
@@ -434,21 +434,21 @@
               "distribution": "corretto"
             },
             "linux-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/fd4501cbef083477aa8b62e02c19a54e/redirect",
-              "size": "96.0 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/5ddeb66b0511b6c1d0437a0489418ff7/redirect",
+              "size": "95.9 MB",
               "sha256": "",
               "javaVersion": "8.0.492",
               "distribution": "corretto"
             },
             "linux-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/852be19b28d06146eb84df7fdf850414/redirect",
-              "size": "95.7 MB",
+              "url": "https://api.foojay.io/disco/v3.0/ids/98a40e5ef6180d892a46fa301c5442b7/redirect",
+              "size": "97.6 MB",
               "sha256": "",
               "javaVersion": "8.0.492",
               "distribution": "corretto"
             },
             "macos-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/a48c468d72aabff3f6fc11c99ab5070e/redirect",
+              "url": "https://api.foojay.io/disco/v3.0/ids/34de92e017ef9f6f09f2999567c9e2c6/redirect",
               "size": "112.9 MB",
               "sha256": "",
               "javaVersion": "8.0.492",
