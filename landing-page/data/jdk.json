@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T05:12:18.139Z",
+  "lastUpdated": "2026-10-05T04:39:05.402Z",
   "jenv": {
     "version": "0.6.9",
     "platforms": {
@@ -434,7 +434,7 @@
               "distribution": "corretto"
             },
             "linux-x64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/663dcd2a2d9fee35260e04b6a1a2d158/redirect",
+              "url": "https://api.foojay.io/disco/v3.0/ids/d3a5e8102a706145700b67d8f1b96cb2/redirect",
               "size": "96.0 MB",
               "sha256": "",
               "javaVersion": "8.0.504",
@@ -455,7 +455,7 @@
               "distribution": "corretto"
             },
             "macos-arm64": {
-              "url": "https://api.foojay.io/disco/v3.0/ids/c454f227e0dce36c24d1dfeabdff53a4/redirect",
+              "url": "https://api.foojay.io/disco/v3.0/ids/19c89d89e285ebaddc55489547332913/redirect",
               "size": "98.2 MB",
               "sha256": "",
               "javaVersion": "8.0.504",
